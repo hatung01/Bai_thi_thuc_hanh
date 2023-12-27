@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background: hotpink;
+}
+.logo{
+    width: 50px;
+}
+.logo img{
+    width: 100%;
+    border-radius: 50%;
+}
+.style-button{
+    color: white!important;
+    margin-left: 15px;
+    border-radius: 9px;
+}
+.style-button:hover{
+    color: hotpink!important;
+    background: white;
+}
+.content{
+    background: pink;
+}
+.image{
+    overflow: hidden;
+    border-radius: 9px;
+}
+.image img{
+    width: 100%;
+    border-radius: 9px;
+    transition: .2s ease-in-out;
+}
+.image img:hover{
+    transform: scale(1.1);
+}
+.thong-tin h1{
+    color: black;
+}
+.footer{
+    background: #F5F5F5;
+}
+.style-footer{
+    margin-top: 100px;
+}
+.logo-footer{
+    display: inline-flex;
+}
+.logo-footer a img{
+    width: 100%;
+    border-radius: 50%;
+}
+.lien-he ul{
+    margin-top: 10px;
+    list-style: none;
+}
+.dien-thoai{
+    height: 24px;
+    display: flex;
+}
+.dien-thoai a{
+    color: black;
+}
+.dien-thoai p{
+    margin-left: 5px;
+}
+.email a{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,11 @@
+.image-ca-nhan{
+    display: flex;
+    justify-content: center;
+}
+.image-ca-nhan img{
+    width: 50%;
+    border-radius: 9px;
+}
+.text{
+    text-align: center;
+}
